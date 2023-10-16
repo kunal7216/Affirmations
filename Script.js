@@ -1,3 +1,4 @@
+
 const affirmations = {
   1: "I'm deserving of love and respect.",
   2: "I'm growing and evolving every day.",
